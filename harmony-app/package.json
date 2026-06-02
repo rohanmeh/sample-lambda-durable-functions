@@ -1,0 +1,9 @@
+{
+  "name": "coding-agent-demo",
+  "version": "1.0.0",
+  "description": "Autonomous Background Coding Agent demo UI",
+  "scripts": {
+    "build-harmony-app": "build-harmony",
+    "prepublishOnly": "publish-harmony-app --apply-legacy-cleaning app"
+  }
+}
